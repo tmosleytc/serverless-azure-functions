@@ -1,5 +1,5 @@
 {
-  "name": "serverless-azure-functions",
+  "name": "tm-serverless-azure-functions",
   "version": "0.7.0",
   "description": "Provider plugin for the Serverless Framework v1.x which adds support for Azure Functions.",
   "license": "MIT",
@@ -9,18 +9,11 @@
     "test": "eslint **/*.js"
   },
   "repository": {
-    "git": "https://github.com/serverless/serverless-azure-functions"
+    "git": "https://github.com/tmosleytc/serverless-azure-functions"
   },
-  "homepage": "https://github.com/serverless/serverless-azure-functions",
+  "homepage": "https://github.com/tmosleytc/serverless-azure-functions",
   "keywords": [
-    "serverless",
-    "serverless framework",
-    "serverless applications",
-    "serverless modules",
-    "azure functions",
-    "iot",
-    "internet of things",
-    "serverless.com"
+    "function-test"
   ],
   "dependencies": {
     "az-login": "^0.3.0",
